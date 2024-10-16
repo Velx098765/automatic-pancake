@@ -1,4 +1,4 @@
 # automatic-pancake
 automatic-pancake
-[google](google.com)
+[google](https://www.google.com/?safe=active&ssui=on)
 
